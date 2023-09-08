@@ -12,8 +12,8 @@ bot_user = ""
 api_id = 10823881
 api_hash = "339886e2109eb67203ce12022b32e035"
 session = ""
-token = "6247911571:AAE5BigKpsEb26VLCi19M3V-nWg_L5NQY4Y"
-sudo_command = [1099460779, 1001132193]
+token = "6438241998:AAH0e_Sat16FhiThCrkq9hmjVJBt606ICYA"
+sudo_command = [5413631898, 5413631898]
 pm = ""
 mention = ""
 plugins = dict(root="plugins")
